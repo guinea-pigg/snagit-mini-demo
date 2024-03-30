@@ -1,9 +1,10 @@
-## Google Calendar: main page overview
+# Google Calendar: main page overview
 
-### Introduction:
-The following concept topic presents an overview of the main page in Google Calendar. It highlights the key features and functionalities of Google Calendar for users (in this case it’s an employee) to see and manage their events. 
+## Introduction
 
-## Google Calendar: main page overview
+The following concept topic presents an overview of the main page in Google Calendar. It highlights the key features and functionalities of Google Calendar for users (in this case it’s an employee) to see and manage their events.
+
+## Google Calendar: main page overview. Explanation
 
 1. **Calendar Selector:** Located on the left side of the screen, the calendar selector allows users to view different calendars they have access to, such as personal calendars, shared calendars, or subscribed calendars.
 
