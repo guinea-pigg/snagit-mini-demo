@@ -1,0 +1,1 @@
+# snagit-mini-demo
