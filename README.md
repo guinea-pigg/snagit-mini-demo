@@ -6,6 +6,8 @@ The following concept topic presents an overview of the main page in Google Cale
 
 ## Google Calendar: main page overview. Explanation
 
+![img](./images/google_calendar_screenshot.png)
+
 1. **Calendar Selector:** Located on the left side of the screen, the calendar selector allows users to view different calendars they have access to, such as personal calendars, shared calendars, or subscribed calendars.
 
 2. **Navigation Buttons:** At the top of the screen, there are navigation buttons to switch between different views, including day, week, month, and agenda views. Users can easily toggle between different timeframes to view their events.
